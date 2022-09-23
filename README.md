@@ -28,13 +28,7 @@ Aspiring Data Engineer (and Architect) with extreme passion for data and its app
 <br>
 
 
-## About Me 
-From a civil engineer, a math teacher, a manager to a data enthusiast! While working as a manager for a Microsoft-Partner company, I found myself dealing daily with tons of records. <br>
-<br>Everyday I'd have to go to PowerBI workspaces, scroll scroll scroll, copy data, model it in CSV files and create reports with it, because that's how I saw it being done. <br>
-<br>But that didn't feel efficient to me, and that's where I found my passion for data. I was having immense fun trying to find solutions and workarounds, trying to automate and optimize, trying to find insights in metric tons of data and automate insight finding too.<br>
-At that point I knew, this is what I want to do now.<br>
-<br>Within 4 mere months, and without prior software development experience, I have learned a significant amount of what it means to be a data scientist and analyst, and not only that, I have successfully learned most of the currently used data engineering tech stack. <br>
-<br>This was only possible because I genuinely love this field. I come to my desktop with a bowl of noodles and am like, okay, do I watch a movie on netflix while eating? NOPE, data releated videos it is. and I enjoy it too!<br>
+
 <!---
 Lestrang1991/Lestrang1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
