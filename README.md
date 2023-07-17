@@ -1,31 +1,57 @@
-## <p align="center">**Hello there! My name is Islam!** ✨✨</p>
+## <p align="center">Hello there! I'm Islam ✨✨</p>
   
 <p align="center"><a href="https://www.linkedin.com/in/islam-elsayed-ba7692240/">
 <img src="https://user-images.githubusercontent.com/107177143/190924452-6a38dc8b-a54c-4a12-ace9-e82e2f138850.svg" alt="Islam's LinkedIn"/>
 <a href="">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Islam's HackerRank Profile"/>
+<img src="https://github.com/Elsayed91/Lestrang1991/assets/107177143/ccd390c4-04c5-40ab-a6d1-e02f952567ad" alt="Islam's Portofolio"/>
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Islam's Codewars"/>
+<a href="elsayed.is@outlook.com">
+<img src="https://github.com/Elsayed91/Lestrang1991/assets/107177143/6004dc58-e62e-417e-b2b2-0122d2d4ce10" alt="Outlook"/>
 </a>
-<a href="">
-<img src="https://camo.githubusercontent.com/3166ce113b2eb6ee1d99d041a39efc3e9a254d18bd3aec41fbf061b0496f7aa3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504f5254464f4c494f2d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d776869746520616c743d" alt="Islam's Portofolio"/>
-</a>
-</p>
+
+
+
+
+<!-- Technologies -->
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-F47A20?style=flat&logo=dbt&logoColor=white) 
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-31517A?style=flat&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![PowerBi](https://img.shields.io/badge/PowerBi-F2C811?style=flat&logo=power-bi&logoColor=white) 
+![Looker Data Studio](https://img.shields.io/badge/Looker%20Data%20Studio-000000?style=flat&logo=looker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+
+<!-- About Me -->
+## 🌱 About Me
+
+Former manager turned data enthusiast with a knack for creating efficient and scalable data solutions. My journey started in civil engineering, but my true passion lies in harnessing the power of data.
+
+<!-- Projects -->
+## 🚀 Featured Projects
+- [NY Taxi Data & MLOps Pipeline](https://github.com/Elsayed91/taxi-data-pipeline): Automated data & MLOps pipeline leveraging Kubernetes and Apache Airflow. Integrates Spark, Kafka, and DBT with a focus on data quality. Tailors solutions for diverse user needs.
+- [Xbox Data Scraping & Analysis Pipeline](https://github.com/Elsayed91/xbox_de_project): Automated data-driven project leveraging Python, Airflow, and GKE. Scrapes diverse data sources, providing insights into Xbox hardware and game data.
+- [Easy GE](https://github.com/Elsayed91/easy_ge): A python package that abstracts away the complexity of `Great Expectations` and allow for easy no-knowledge-required implementation for normal use cases. 
+
+<!-- Reach Out -->
+## 📫 Let's Connect
+I'm always open to exciting collaborations and opportunities. Feel free to connect on LinkedIn! ✨
 
 
 
 
 
-<p align="center">
-Aspiring Data Engineer (and Architect) with extreme passion for data and its applications!
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<!-- Footer ![Profile Views](https://komarev.com/ghpvc/?username=Elsayed91&color=blueviolet) -->
 
 
 
