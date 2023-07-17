@@ -4,13 +4,14 @@
   <a href="https://www.linkedin.com/in/islam-elsayed-ba7692240/">
     <img src="https://user-images.githubusercontent.com/107177143/190924452-6a38dc8b-a54c-4a12-ace9-e82e2f138850.svg" alt="Islam's LinkedIn" height="30px"/>
   </a>
-  <a href="elsayed.is@outlook.com">
-    <img src="https://github.com/Elsayed91/Lestrang1991/assets/107177143/6004dc58-e62e-417e-b2b2-0122d2d4ce10" alt="Outlook" height="30px"/>
+  <a href="mailto:elsayed.is@outlook.com">
+    <img src="https://example.com/email-icon.png" alt="Outlook" height="30px"/>
   </a>
-    <a href="wwww.xd.com">
-    <img src="https://github.com/Elsayed91/Elsayed91/assets/107177143/12215be1-807d-4e24-a2b9-b994726efd6f" alt="Islam's Portfolio" height="30px"/>
+  <a href="https://www.example.com/portfolio">
+    <img src="https://example.com/portfolio-icon.png" alt="Portfolio" height="30px"/>
   </a>
 </p>
+
 
 
 <!-- Technologies -->
