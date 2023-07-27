@@ -44,7 +44,8 @@ Former manager and civil engineer turned data enthusiast with a knack for creati
 ## 🚀 Featured Projects
 - [NY Taxi Data & MLOps Pipeline](https://github.com/Elsayed91/taxi-data-pipeline): Automated data & MLOps pipeline leveraging Kubernetes and Apache Airflow. Integrates Spark, Kafka, and DBT with a focus on data quality. Tailors solutions for diverse user needs.
 - [Xbox Data Scraping & Analysis Pipeline](https://github.com/Elsayed91/xbox_de_project): Automated data-driven project leveraging Python, Airflow, and GKE. Scrapes diverse data sources, providing insights into Xbox hardware and game data.
-- [Easy GE](https://github.com/Elsayed91/easy_ge): A python package that abstracts away the complexity of `Great Expectations` and allow for easy no-knowledge-required implementation for normal use cases. 
+- [Easy GE](https://github.com/Elsayed91/easy_ge): A python package that abstracts away the complexity of `Great Expectations` and allow for easy no-knowledge-required implementation for normal use cases.
+- [SchemaDiff](https://github.com/Elsayed91/schemadiff): A python package that efficiently detects files with inconsistent schemas amidst thousands of files by reading the parquet files metadata.
 
 <!-- Reach Out -->
 ## 📫 Let's Connect
