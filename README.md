@@ -39,7 +39,7 @@
 <!-- About Me -->
 ## 🌱 About Me
 
-Former manager and civil engineer transitioning to data engineering with a knack for creating efficient and scalable data solutions.
+Former manager and civil engineer transitioning to data engineering after discovering a passion for building scalable solutions.
 <!-- Projects -->
 ## 🚀 Featured Projects
 - [NY Taxi Data & MLOps Pipeline](https://github.com/Elsayed91/taxi-data-pipeline): Automated data & MLOps pipeline leveraging Kubernetes and Apache Airflow. Integrates Spark, Kafka, and DBT with a focus on data quality. Tailors solutions for diverse user needs.
