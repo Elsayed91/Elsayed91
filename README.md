@@ -48,7 +48,7 @@ Former manager and civil engineer transitioning to data engineering after discov
 ## 🚀 Packages
 - [Easy Expectations](https://github.com/Elsayed91/easy_ge): A python package that abstracts away the complexity of `Great Expectations` and allow for easy no-knowledge-required implementation for basic use cases.
 - [SchemaDiff](https://github.com/Elsayed91/schemadiff): A python package that efficiently detects files with inconsistent schemas amidst thousands of files by reading the parquet files metadata.
-- [Order of The Template](https://github.com/Elsayed91/oot): A Python toolkit for parsing and processing YAML templates, capable of resolving Bash syntax environment variables and Jinja templating. It also offers schema validation functionality for the processed templates.
+- [Order of The Template](https://github.com/Elsayed91/oot): A Python toolkit for parsing and processing YAML templates, capable of resolving Bash syntax environment variables and Jinja templating. It also offers schema validation functionality.
 
 
 
