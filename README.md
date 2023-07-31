@@ -45,7 +45,7 @@ Former manager and civil engineer transitioning to data engineering after discov
 - [NY Taxi Data & MLOps Pipeline](https://github.com/Elsayed91/taxi-data-pipeline): Automated data & MLOps pipeline leveraging Kubernetes and Apache Airflow. Integrates Spark, Kafka, and DBT with a focus on data quality. Tailors solutions for diverse user needs.
 - [Xbox Data Scraping & Analysis Pipeline](https://github.com/Elsayed91/xbox_de_project): Automated data-driven project leveraging Python, Airflow, and GKE. Scrapes diverse data sources, providing insights into Xbox hardware and game data.
 
-## 🚀 Packages
+## 📦 Packages
 - [Easy Expectations](https://github.com/Elsayed91/easy_ge): A python package that abstracts away the complexity of `Great Expectations` and allow for easy no-knowledge-required implementation for basic use cases.
 - [SchemaDiff](https://github.com/Elsayed91/schemadiff): A python package that efficiently detects files with inconsistent schemas amidst thousands of files by reading the parquet files metadata.
 - [Order of The Template](https://github.com/Elsayed91/oot): A Python toolkit for parsing and processing YAML templates, capable of resolving Bash syntax environment variables and Jinja templating. It also offers schema validation functionality.
