@@ -1,15 +1,15 @@
 ## <p align="center">Hello there! I'm Islam ✨✨</p>
   
 <p align="center">
-  <a href="https://www.linkedin.com/in/islam-elsayed-ba7692240/">
+  <a href="https://www.linkedin.com/in/is-elsayed/">
     <img src="https://user-images.githubusercontent.com/107177143/190924452-6a38dc8b-a54c-4a12-ace9-e82e2f138850.svg" alt="Islam's LinkedIn" height="30px"/>
   </a>
   <a href="mailto:elsayed.is@outlook.com">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107177143/253976652-6004dc58-e62e-417e-b2b2-0122d2d4ce10.svg" alt="Outlook" height="30px"/>
   </a>
-    <a href="https://elsayed91.github.io/resume/">
+<!--     <a href="https://elsayed91.github.io/resume/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107177143/253979128-12215be1-807d-4e24-a2b9-b994726efd6f.svg" alt="Islam's Portfolio" height="30px"/>
-  </a>
+  </a> -->
 </p>
 
 
