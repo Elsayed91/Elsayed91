@@ -38,8 +38,8 @@
 
 <!-- About Me -->
 ## 🌱 About Me
+Data Engineer, but I mainly work with/as Data/Dev/MLOps, so am I really a data engineer? Idk.
 
-Former manager and civil engineer transitioning to data engineering after discovering a passion for building scalable solutions.
 <!-- Projects -->
 ## 🚀 Featured Projects
 - [NY Taxi Data & MLOps Pipeline](https://github.com/Elsayed91/taxi-data-pipeline): Automated data & MLOps pipeline leveraging Kubernetes and Apache Airflow. Integrates Spark, Kafka, and DBT with a focus on data quality. Tailors solutions for diverse user needs.
